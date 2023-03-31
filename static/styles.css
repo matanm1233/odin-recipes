@@ -1,0 +1,16 @@
+body {
+    margin: 2rem;
+}
+
+div.section {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 1px solid black;
+    margin-left: 0;
+    width: 50%;
+}
+
+h3.title {
+    margin: 0;
+}
